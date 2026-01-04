@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Patil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [E-COMMERCE]([https://my-portfol-web.netlify.app/](https://shopper-e-commerce-two.vercel.app/))
+- 🔭 I’m currently working on [E-COMMERCE]([https://my-portfol-web.netlify.app/](https://shopper-e-commerce-two.vercel.app/)
 
 - 🌱 I’m currently learning **Angular.js, Next.js, Java, JDBC**
 
