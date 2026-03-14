@@ -6,9 +6,8 @@
 - 🌱 I’m currently learning **Angular.js, Next.js, Java, JDBC**
 
 - 👨‍💻 All of my projects are available at
-- [https://my-portfol-web.netlify.app/] (https://my-portfol-web.netlify.app/)
-- [[https://vercel.com/saurabh-patils-projects-9c9dd07d](https://windows-xp-portfolio-weld.vercel.app/)]
-
+- [https://my-portfol-web.netlify.app/]
+- [[https://vercel.com/saurabh-patils-projects-9c9dd07d]
 - 💬 Ask me about **react.js**
 
 - 📫 How to reach me **saurabhpatil8426@gmail.com**
