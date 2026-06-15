@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on ([E-COMMERCE]) (https://shopper-e-commerce-two.vercel.app/)
-      ([PORTFOLIO]) (https://saurabhpatil84.netlify.app/)
 
 - 🌱 I’m currently learning **Angular.js, Next.js, Java, JDBC**
 
 - 👨‍💻 All of my projects are available at
+- [https://saurabhpatil84.netlify.app/]
 - [https://my-portfol-web.netlify.app/]
 - [[https://vercel.com/saurabh-patils-projects-9c9dd07d]
 - 💬 Ask me about **react.js**
