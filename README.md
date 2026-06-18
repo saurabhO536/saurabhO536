@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning **Angular.js, Next.js, Java, JDBC**
 
 - 👨‍💻 All of my projects are available at
-- [https://saurabhpatil84.netlify.app/]
-- [https://my-portfol-web.netlify.app/]
-- [[https://vercel.com/saurabh-patils-projects-9c9dd07d]
+- Portfolio [https://saurabhpatil84.netlify.app/]
+- Basic Portfolio [https://my-portfol-web.netlify.app/]
+- Shopper-ecommerce-web [https://shopper-ecommerce-web.netlify.app/]
+- Aura-weather-web [https://aura-weather-web.netlify.app/]
 - 💬 Ask me about **react.js**
 
 - 📫 How to reach me **saurabhpatil8426@gmail.com**
