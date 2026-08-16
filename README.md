@@ -1,23 +1,249 @@
-<h1 align="center">Hi 👋, I'm Saurabh Patil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on ([E-COMMERCE]) (https://shopper-e-commerce-two.vercel.app/)
+# 👋 Hi, I'm Saurabh Patil
 
-- 🌱 I’m currently learning **Angular.js, Next.js, Java, JDBC**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Angular+%7C+Tailwind+CSS;Building+Modern+Web+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at
-- Portfolio [https://saurabhpatil84.netlify.app/]
-- Basic Portfolio [https://my-portfol-web.netlify.app/]
-- Shopper-ecommerce-web [https://shopper-ecommerce-web.netlify.app/]
-- Aura-weather-web [https://aura-weather-web.netlify.app/]
-- 💬 Ask me about **react.js**
-
-- 📫 How to reach me **saurabhpatil8426@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/saurabh-patil-453a13157" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/saurabh-patil-453a13157" height="30" width="40" /></a>
+<p>
+  <a href="https://saurabhpatil84.netlify.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurabh-patil-453a13157/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saurabhpatil8426@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=saurabhO536&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const saurabh = {
+    role: "Frontend Developer",
+    location: "India 🇮🇳",
+
+    currentlyWorkingOn: [
+        "Modern React Applications",
+        "Responsive Dashboards",
+        "Enterprise Web Applications"
+    ],
+
+    currentlyLearning: [
+        "Angular",
+        "Next.js",
+        "Java",
+        "JDBC",
+        "Spring Boot"
+    ],
+
+    askMeAbout: [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "Frontend Development"
+    ],
+
+    goal: "Build scalable, beautiful and user-friendly applications 🚀"
+};
+```
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+* ⚛️ React & TypeScript
+* ▲ Next.js
+* 🅰️ Angular
+* 🎨 Tailwind CSS
+* 📱 Responsive UI
+* 🧩 Reusable Components
+
+</td>
+
+<td width="50%">
+
+### 🔌 Application Development
+
+* 🔗 REST API Integration
+* 🔐 Authentication
+* 📊 Dashboard Development
+* 🗄️ Database Integration
+* 🚀 Performance Optimization
+* 🛠️ Git & GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,bootstrap" />
+
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vite,postman,linux,vscode" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://shopper-ecommerce-web.netlify.app/">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhO536&repo=Food-ordering-&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+### 🛒 Shopper — E-Commerce
+
+A responsive e-commerce web application built with modern frontend technologies.
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS` `REST API`
+
+🌐 **Live Demo:**
+https://shopper-ecommerce-web.netlify.app/
+
+---
+
+### 🌤️ Aura Weather
+
+A responsive weather application with API integration and a clean user interface.
+
+**Tech Stack**
+
+`React` `JavaScript` `API` `CSS`
+
+🌐 **Live Demo:**
+https://aura-weather-web.netlify.app/
+
+---
+
+### 💼 Personal Portfolio
+
+My personal portfolio showcasing my projects, skills and developer journey.
+
+🌐 **Live:**
+https://saurabhpatil84.netlify.app/
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saurabhO536&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhO536&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=saurabhO536&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/saurabhO536/saurabhO536/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhO536&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://saurabhpatil84.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/saurabh-patil-453a13157/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:saurabhpatil8426@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Building. Keep Learning. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6366F1&height=120&section=footer" />
+
+</div>
+
+
