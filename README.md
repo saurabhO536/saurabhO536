@@ -40,7 +40,7 @@ const saurabh = {
         "Next.js",
         "Java",
         "JDBC",
-        "Spring Boot"
+        "dotnet"
     ],
 
     askMeAbout: [
